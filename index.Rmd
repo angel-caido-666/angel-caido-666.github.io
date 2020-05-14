@@ -2,4 +2,9 @@
 title: "My Website"
 ---
 
-Hello, Website!
+Prueba de mapas y tableros estadísticos con R
+```{r, echo=TRUE}
+x <- rnorm(30,0,1)
+hist(x)
+```
+
